@@ -1,6 +1,6 @@
 ### Hi there 👋
 I’m currently working on AI,
-Python and R, Datascience, Bioinformatics, Scikit Machine learning, Google colaboratory
+Python and R, Datascience, Data processing, Bioinformatics, Scikit Machine learning, Google colaboratory
 
 <!--
 **arunjaiswal1411/arunjaiswal1411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
